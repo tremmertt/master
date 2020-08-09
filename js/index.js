@@ -5,3 +5,6 @@ var master = function() {
 var dev = function() {
     console.log('devBranch')
 }
+var test = function() {
+    console.log('testBranch')
+}
